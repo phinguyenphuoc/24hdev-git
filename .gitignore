@@ -1,2 +1,4 @@
 demo.log
 demo.log~
+*.log
+*.log~
